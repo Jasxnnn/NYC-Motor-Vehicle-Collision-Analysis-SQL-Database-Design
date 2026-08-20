@@ -75,7 +75,7 @@ The dataset was structured into multiple relational tables to reduce redundancy 
 
 The database consists of **nine interconnected tables** designed to organize the collision data into logical entities.
 
-<img width="1000" alt="NYC Motor Vehicle Collisions Entity Relationship Diagram" src="images/ERD.png"/>
+<img width="1000" alt="NYC Motor Vehicle Collisions Entity Relationship Diagram" src="MySQL_Database/Database_Schema/NYC_Motor_Vehicle_Database_Schema.png"/>
 
 ### Database Tables
 
