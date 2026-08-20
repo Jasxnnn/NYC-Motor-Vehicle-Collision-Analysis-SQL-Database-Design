@@ -374,10 +374,10 @@ This project provided hands-on experience across the database development lifecy
 
 ## Files
 
-* **`SQL/`** — Contains SQL scripts used to create, populate, and analyze the database.
-* **`ERD/`** — Contains the Entity-Relationship Diagram representing the database schema.
-* **`Data/`** — Contains sample or permitted source data used for the project.
-* **`Documentation/`** — Contains supporting project documentation and the original final report.
+* **`Data/`** — Contains the data used for the project.
+* **`MySQL_Database/Database_Design`** — Contains the NYC Motor Vehicle Collision Database Model.
+* **`MySQL_Database/Database_Schema`** — Contains the Entity Relationship Diagram representing the database schema.
+* **`MySQL_Database_Queries/`** — Contains SQL queries used to analyze the database.
 
 ---
 
