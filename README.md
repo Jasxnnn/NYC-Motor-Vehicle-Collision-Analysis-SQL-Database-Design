@@ -386,5 +386,3 @@ This project provided hands-on experience across the database development lifecy
 This project is based on a limited subset of publicly available New York City motor vehicle collision records. Because the database focuses on **August 1, 2016, from approximately 12:00 PM to 2:07 PM**, the findings should not be generalized to all NYC collisions.
 
 Additionally, the dataset does not include every factor that may influence collision outcomes, including comprehensive information about road infrastructure, traffic volume, weather conditions, vehicle utilization, or driver experience.
-
-The analysis should therefore be interpreted as **descriptive analysis of the selected records rather than evidence of causal relationships**.
